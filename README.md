@@ -1,3 +1,3 @@
 # howdatsci_assessmnt
 Howard RCMI assessment files
-THis is my first commit
+This is my first commit
